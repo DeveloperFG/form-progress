@@ -1,15 +1,21 @@
-# fernandev
+ # Formulario de Progresso <br> 
 
-## React Interview Challenge #03
+<p align="center">
+ 📝 Descrição <br> 
+   Apenas para estudos <br> 
+</p>
 
-E aí dev, tudo bem? Trouxe pra você mais um desafio de entrevista para que você possa treinar em casa e aprimorar suas habilidades.
 
-Dessa vez temos um formulário que deve alterar uma barra de progresso conforme seus campos vão sendo digitados pelo usuário. Muitos conceitos usados nesse desafio!
+<div align="center">
+<img src="https://i.ibb.co/8bLkqbD/Desktop-Screenshot-2022-12-30-10-24-48-22.png"/>
+</div>
 
-Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
+ <br> 
+ 
+# 🚀 Tecnologias Usadas
+* React + Vit
 
-**Se você curtir esse conteúdo, deixa uma STAR aí nesse repo, porque isso me motiva a trazer mais conteúdos desse gênero.**
+# 📚 Finalidade
+* Simular o progresso para preenchimento de informações requisitadas, com validacões de name e email.
 
-## Resolução do desafio
-
-https://youtu.be/ngcH4e2RTUM
+<br> 
